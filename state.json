@@ -6,12 +6,12 @@
   "benchmark_cash": 5000.0,
   "benchmark_btc": 0.060548279199740665,
   "benchmark_init_price": 82578.73,
-  "last_processed_time": 1794164400000,
+  "last_processed_time": 1794178800000,
   "trade_count": 4,
   "peak_value": 10147.379063012771,
   "max_drawdown": 0.06780273844056255,
   "initialized": true,
-  "last_weekly_sent": "2026-11-01",
+  "last_weekly_sent": "2026-11-08",
   "closed_pl": [
     -216.91,
     -323.73
